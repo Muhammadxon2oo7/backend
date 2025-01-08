@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "json-server-auth db.json -r routes.json",
+    "start": "json-server-auth db.json -r routes.json",
+    "dev": "json-server-auth db.json -r routes.json --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.17.1",
     "json-server-auth": "^2.1.0"
   }

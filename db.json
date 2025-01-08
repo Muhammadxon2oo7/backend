@@ -1,0 +1,3024 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$vhq93w85O9LaO3LMhqBILekGjmqW6a8Jnd4FMTvLVi.2V.UWmyEEq",
+      "name": "salom",
+      "id": 1
+    },
+    {
+      "email": "salom@gmail.com",
+      "password": "$2a$10$2UVN1tpcPPlOuFFnR.9oCO8UGXuRuzTRPdYN2toNHMqCmtSc8vNgS",
+      "name": "salom",
+      "id": 2
+    }
+  ],
+  "catalog": [
+    {
+      "id": 1,
+      "img": "https://khivamuseum.uz/sites/default/files/1_7.jpg",
+      "text": "Kulolchilik mahsulotlari",
+      "name": "phones"
+    },
+    {
+      "id": 2,
+      "img": "https://khivamuseum.uz/sites/default/files/styles/multple_image/public/5833-3_b.jpg",
+      "text": "Zargarlik buyumlari",
+      "name": "notebook"
+    },
+    {
+      "id": 3,
+      "img": "https://khivamuseum.uz/sites/default/files/styles/multple_image/public/6221_1.jpg",
+      "text": "Yog'ochdan yasalgan buyumlar",
+      "name": "steeringWheel"
+    },
+    {
+      "id": 4,
+      "img": "https://khivamuseum.uz/sites/default/files/styles/multple_image/public/8_5.jpg",
+      "text": "Tikuvchilik va to‘qimachilik",
+      "name": "computers"
+    },
+    {
+      "id": 5,
+      "img": "https://oyina.uz/storage/funnies/October2021/HvTRSwADtw5bhpoAZ3BK.jpg",
+      "text": "Kashtachilik",
+      "name": "washingM"
+    }
+  ],
+  "banners": [
+    {
+      "img": "https://asiaplustj.info/sites/default/files/articles/328397/handicrafts-in-uzbekistan-culture.jpg",
+      "id": 800
+    },
+    {
+      "img": "https://watermark.lovepik.com/photo/20211123/large/lovepik-turkey-handicraft-shop-picture_500829013.jpg",
+      "id": 801
+    },
+    {
+      "img": "https://www.advantour.com/img/uzbekistan/culture/uzbek-handicrafts4_sm.jpg",
+      "id": 802
+    }
+  ],
+  "brand": [
+    {
+      "id": 700,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-asus.png",
+      "brand": "Asus"
+    },
+    {
+      "id": 701,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-hp.png",
+      "brand": "HP"
+    },
+    {
+      "id": 702,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/lenovo.png",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 704,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-samsung.png",
+      "brand": "Samsung"
+    },
+    {
+      "id": 705,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-msi.png",
+      "brand": "MSI"
+    },
+    {
+      "id": 706,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-acer.png",
+      "brand": "Acer"
+    },
+    {
+      "id": 707,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-apple.png",
+      "brand": "Apple"
+    },
+    {
+      "id": 708,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-redmi.png",
+      "brand": "Xiaomi"
+    },
+    {
+      "id": 709,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/Midea_logo.png",
+      "brand": "Midea"
+    },
+    {
+      "id": 710,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-shivaki.png",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 711,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-artel.png",
+      "brand": "Artel"
+    },
+    {
+      "id": 712,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-mercedes.png",
+      "brand": "Mercedes"
+    },
+    {
+      "id": 713,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-chevrolet.png",
+      "brand": "Chevrolet"
+    }
+  ],
+  "ads": [
+    {
+      "id": 297,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/ads_img1.png"
+    },
+    {
+      "id": 298,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/ads_img2.png"
+    },
+    {
+      "id": 299,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/ads_img3.png"
+    }
+  ],
+  "phones": [
+    {
+      "img": "https://khivamuseum.uz/sites/default/files/6_6.jpg",
+      "title": "Qo‘lmehnat bilan ishlangan sopol ko'za",
+      "rame": "Balandligi: 20 sm, Sig‘imi: 1L",
+      "color": "Ko‘k va oq",
+      "brand": "sopol",
+      "price": "750 000",
+      "id": 21
+    },
+    {
+      "img": "https://khivamuseum.uz/sites/default/files/13_0.jpg",
+      "title": "An’anaviy sopol lagan",
+      "rame": "Diametri: 30 sm",
+      "color": "Rang-barang",
+      "brand": "Qoraqalpoq",
+      "price": "560 000",
+      "id": 22
+    },
+    {
+      "img": "https://oyina.uz/storage/funnies/February2022/3%20(2)1.png",
+      "title": "Qo‘lmehnat bilan ishlangan sopol vaza",
+      "rame": "Balandligi: 40 sm, Diametri: 15 sm",
+      "color": "Tabiiy loy rangi",
+      "brand": "sopol",
+      "price": "650 000",
+      "id": 23
+    },
+    {
+      "img": "https://oyina.uz/storage/funnies/February2022/59.png",
+      "title": "Bezakli sopol kosa",
+      "rame": "Diametri: 25 sm",
+      "color": "Jigarrang va bej",
+      "brand": "Hunarmandlar",
+      "price": "450 000",
+      "id": 24
+    },
+    {
+      "img": "https://www.gazeta.uz/media/img/2021/06/O3Aux716244840931258_l.jpg",
+      "title": "Bezakli sopol ko‘za",
+      "rame": "Balandligi: 35 sm, Diametri: 15 sm",
+      "color": "Bej va yashil",
+      "brand": "Qoraqalpoq",
+      "price": "720 000",
+      "id": 25
+    }
+    ,
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone7.jpg",
+      "title": "Samsung Galaxy S24 Ultra",
+      "rame": "12/512 GB",
+      "color": "Titanium Black",
+      "brand": "Samsung",
+      "price": "16 432 000",
+      "id": 26
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone8.jpg",
+      "title": "Samsung Galaxy S24 Ultra",
+      "rame": "12/512 GB",
+      "color": "Titanium Black",
+      "brand": "Samsung",
+      "price": "16 632 000",
+      "id": 27
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg",
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Фиолетовый",
+      "brand": "Novey",
+      "price": "1 479 000",
+      "id": 28
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg",
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Белый",
+      "brand": "Novey",
+      "price": "1 479 000",
+      "id": 29
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg",
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "brand": "Novey",
+      "price": "1 200 000",
+      "id": 30
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone12.jpg",
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Тёмный синий",
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "id": 31
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone13.jpg",
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Желтый",
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "id": 32
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone14.jpg",
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Синий",
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "id": 33
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Pink",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 34
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Pink",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 35
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Pink",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 36
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Yellow",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 37
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Yellow",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 38
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Yellow",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 39
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Green",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 40
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Green",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 41
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Green",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 42
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Black",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 43
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Black",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 44
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Black",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 45
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Natural titanium",
+      "brand": "Apple",
+      "price": "24 611 000",
+      "id": 46
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Natural titanium",
+      "brand": "Apple",
+      "price": "22 752 000",
+      "id": 47
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "512 Gb",
+      "color": "Natural titanium",
+      "brand": "Apple",
+      "price": "18 604 000",
+      "id": 48
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Black titanium",
+      "brand": "Apple",
+      "price": "24 611 000",
+      "id": 49
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+      "title": "Samsung Galaxy A05",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "brand": "Samsung",
+      "price": "1 700 000",
+      "id": 52
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Black titanium",
+      "brand": "Apple",
+      "price": "22 752 000",
+      "id": 50
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "512 Gb",
+      "color": "Black titanium",
+      "brand": "Apple",
+      "price": "18 604 000",
+      "id": 51
+    }
+  ],
+  "sport": [
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
+      "title": "Беговая дорожка CF-6-4",
+      "brand": "sportGym",
+      "price": "9 375 000",
+      "id": 60
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img2.jpg",
+      "title": "Велотренажёр Grand Fitness GF-0716EA",
+      "brand": "sportGym",
+      "price": "4 697 000",
+      "id": 61
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img3.jpg",
+      "title": "Велотренажёр Grand Fitness 0701",
+      "brand": "sportGym",
+      "price": "3 057 000",
+      "id": 62
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img4.jpg",
+      "title": " Набор гантелей 6 в 1",
+      "brand": "sportGym",
+      "price": "990 000",
+      "id": 63
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img5.jpg",
+      "title": " Набор гантелей 10кг 6 в 1",
+      "brand": "sportGym",
+      "price": "730 000",
+      "id": 64
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img6.jpg",
+      "title": "Беговая дорожка PowerGym PG-565Mi",
+      "brand": "sportGym",
+      "price": "9 300 000",
+      "id": 65
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img7.jpg",
+      "title": "Беговая дорожка NewNoble V5",
+      "brand": "NewNoble",
+      "price": "11 000 000",
+      "id": 66
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img8.jpg",
+      "title": "Многофункциональный силовой тренажер PowerGym H83E",
+      "brand": "sportGym",
+      "price": "11 130 000",
+      "id": 67
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img9.jpg",
+      "title": "Платформа для отжиманий с эспандерами 14 в 1",
+      "brand": "NewNoble",
+      "price": "350 000",
+      "id": 68
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img10.jpeg",
+      "title": "Платформа для отжиманий с эспандерами 14 в 1",
+      "brand": "NewNoble",
+      "price": "350 000",
+      "id": 69
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img11.jpeg",
+      "title": "Мини степпер PowerGym",
+      "brand": "sportGym",
+      "price": "1 050 000",
+      "id": 70
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img12.jpeg",
+      "title": "Фитнес мяч 85см (904)",
+      "brand": "sportGym",
+      "price": "198 000",
+      "id": 71
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img19.jpeg",
+      "title": "Ролик массажный 45см (3105)",
+      "brand": "sportGym",
+      "price": "180 000",
+      "id": 77
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img20.jpeg",
+      "title": "Гантели Резиновые 1.5 кг 2шт (3124)",
+      "brand": "sportGym",
+      "price": "260 000",
+      "id": 78
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img13.jpeg",
+      "title": "Беговая дорожка PowerGym PG 710",
+      "brand": "sportGym",
+      "price": "7 400 000",
+      "id": 72
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img14.jpeg",
+      "title": "Гимнастический ролик для пресса",
+      "brand": "sportGym",
+      "price": "205 000",
+      "id": 73
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img15.jpeg",
+      "title": "Упоры для отжимания",
+      "brand": "NewNoble",
+      "price": "186 000",
+      "id": 74
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img16.jpg",
+      "title": "Велотренажер PowerGym B50",
+      "brand": "sportGym",
+      "price": "3 230 000",
+      "id": 75
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img18.jpeg",
+      "title": "Велотренажер PowerGym B55",
+      "brand": "sportGym",
+      "price": "3 700 000",
+      "id": 76
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img21.jpeg",
+      "title": "Инверсионный стол PowerGym A27",
+      "brand": "NewNoble",
+      "price": "2 600 000",
+      "id": 79
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img22.jpeg",
+      "title": "Универсальная скамья для пресса PowerGym DDS-201",
+      "brand": "PowerGym",
+      "price": "2 100 000",
+      "id": 80
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img23.jpeg",
+      "title": "Универсальная скамья для пресса PowerGym B10",
+      "brand": "PowerGym",
+      "price": "2 800 000",
+      "id": 81
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img24.jpeg",
+      "title": "Многофункциональный силовой тренажер PowerGym H99",
+      "brand": "PowerGym",
+      "price": "15 300 000",
+      "id": 82
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img25.jpeg",
+      "title": "Многофункциональный силовой тренажер PowerGym H68",
+      "brand": "PowerGym",
+      "price": "7 201 000",
+      "id": 83
+    }
+  ],
+  "notebook": [
+    {
+      "img": "https://yuz.uz/imageproxy/1200x/https://yuz.uz/file/news/21116b4d32e7cca9595cb269961066bb.png",
+      "title": "Qo‘lmehnat bilan ishlangan oltin bilakuzuk",
+      "brand": "Zargarlik San’ati",
+      "price": "5 250 000",
+      "color": "Oltin",
+      "ram": "Qalinligi: 4 mm",
+      "geForce": "Oltin tozaligi: 585",
+      "core": "Og‘irligi: 25 gr",
+      "display": "Qo‘l uchun",
+      "memory": "Naqshli dizayn",
+      "weight": "25 gr",
+      "id": 100
+    },
+    {
+      "img": "https://api.society.uz/media/WOSCU%20(23)_EeqAZyU_1.webp",
+      "title": "Bezakli oltin sirg‘alar",
+      "brand": "Zargarlik Ustasi",
+      "price": "2 850 000",
+      "color": "Oltin",
+      "ram": "Oltin tozaligi: 750",
+      "geForce": "Dizayn: Qimmatbaho tosh bilan",
+      "core": "Og‘irligi: 12 gr",
+      "display": "Quloq uchun",
+      "memory": "Naqshli bezak",
+      "weight": "12 gr",
+      "id": 101
+    },
+    {
+      "img": "https://api.society.uz/media/photo_2024-05-06_12-35-19_1.webp",
+      "title": "Qo‘lmehnat bilan ishlangan kumush uzuk",
+      "brand": "Zargarlik San’ati",
+      "price": "1 450 000",
+      "color": "Kumush",
+      "ram": "Oltin qoplama",
+      "geForce": "Naqsh: O‘zbek an’anasi",
+      "core": "Og‘irligi: 15 gr",
+      "display": "Barmoq uchun",
+      "memory": "Qo‘lmehnat dizayn",
+      "weight": "15 gr",
+      "id": 102
+    },
+    {
+      "img": "https://yuz.uz/file/filestore/372b6e07c6860e50ecee4cd28c28b10d.png",
+      "title": "Qimmatbaho toshli marjon",
+      "brand": "Meros Zargarlik",
+      "price": "8 950 000",
+      "color": "Oltin va yashil tosh",
+      "ram": "Tosh: Zumrad",
+      "geForce": "Metall: Oltin",
+      "core": "Og‘irligi: 40 gr",
+      "display": "Bo‘yin uchun",
+      "memory": "Naqshli marjon",
+      "weight": "40 gr",
+      "id": 103
+    },
+    {
+      "img": "https://cdn1.img.sputniknews.uz/img/07e5/03/07/16149080_0:0:3072:2048_600x0_80_0_0_c65c091a02ff8c5ad1d233b6b76a117d.jpg",
+      "title": "Qo‘lmehnat bilan ishlangan oltin marjon",
+      "brand": "Zargarlik Ustasi",
+      "price": "12 500 000",
+      "color": "Oltin",
+      "ram": "Tosh: Qizil yaqut",
+      "geForce": "Oltin tozaligi: 585",
+      "core": "Og‘irligi: 50 gr",
+      "display": "Bo‘yin uchun",
+      "memory": "Kumush bilan birlashtirilgan",
+      "weight": "50 gr",
+      "id": 104
+    },
+    {
+      "img": "https://api.society.uz/media/news/1_4.webp",
+      "title": "Qimmatbaho toshli bilakuzuk",
+      "brand": "Meros Zargarlik",
+      "price": "4 750 000",
+      "color": "Oltin va ko‘k tosh",
+      "ram": "Tosh: Safir",
+      "geForce": "Metall: Oltin",
+      "core": "Og‘irligi: 30 gr",
+      "display": "Qo‘l uchun",
+      "memory": "An’anaviy dizayn",
+      "weight": "30 gr",
+      "id": 105
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img7.jpeg?token=GHSAT0AAAAAACOWD3ASFPYEXDHRXA3N7EPSZPHADNA",
+      "title": "Ноутбук Lenovo MateBook D 14 2023 i3-1215U 8 GB 256GB",
+      "brand": "Lenovo",
+      "price": "6 664 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 106
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img8.jpeg?token=GHSAT0AAAAAACOWD3AT7ZX2H5TAF6ZCZGIWZPHAESQ",
+      "title": "Ноутбук Msi Cyborg 15 A12VE-091XKR i7 12650H 8/512GB",
+      "brand": "MSI",
+      "price": "13 208 000",
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I7",
+      "display": "16.5 Full HD",
+      "memory": "512 GB",
+      "weight": "1.5 KG",
+      "id": 107
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img9.jpeg?token=GHSAT0AAAAAACOWD3AS7JDEZNQPWAWZEUWMZPHAFVQ",
+      "title": "Ноутбук Acer Aspire 5 A517-56CC I5-1335U 8/512 GB SSD",
+      "brand": "Acer",
+      "price": "9 970 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 108
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img10.jpeg?token=GHSAT0AAAAAACOWD3ATRU2ODLOFMABPOAJCZPHAJVA",
+      "title": "Ноутбук Acer Aspire 5 A515-58P-55AK I5-1335U 8/256GB",
+      "brand": "Acer",
+      "price": "7 080 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 109
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img11.jpeg?token=GHSAT0AAAAAACOWD3ASZUAZBOBTIFF4BJ6WZPHAKTA",
+      "title": "Ноутбук Acer EX215 I5-1135G7 4/256GB 15.6 FHD",
+      "brand": "Acer",
+      "price": "5 100 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 110
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img12.jpeg?token=GHSAT0AAAAAACOWD3ASG7U3BYL2CY6PGMFAZPHALRA",
+      "title": "Ноутбук Apple MacBook Pro 13 2020 Z0Y6000YK core i7 1068NG7 32/512ГБ SSD 13.3",
+      "brand": "Apple",
+      "price": "30 336 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 111
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img13.jpeg?token=GHSAT0AAAAAACOWD3ATVEEDRFKKYNVEK4L4ZPHAMTA",
+      "title": "Ноутбук Lenovo Ideapad 1 15IGL7 N4020 4/256 GB SSD",
+      "brand": "Lenovo",
+      "price": "2 899 000",
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 112
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img14.jpeg?token=GHSAT0AAAAAACOWD3ATNQB75RCRL5GHDOE2ZPHANUQ",
+      "title": "Ноутбук Asus TUF Dash F15 i5-12450H 8/512GB SSD 15,6 FHD",
+      "brand": "Asus",
+      "price": "11 629 000",
+      "color": "black",
+      "ram": "31 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I9",
+      "display": "17 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 113
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img15.jpeg?token=GHSAT0AAAAAACOWD3ATKXHPXT4BNWQO3MUUZPHAOXA",
+      "title": "Ноутбук MacBook Air M2 15 Starlight 256GB SSD",
+      "brand": "Apple",
+      "price": "19 715 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 114
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img16.jpeg?token=GHSAT0AAAAAACOWD3ATTVWTST26UQJUZ6FWZPHAQNA",
+      "title": "Ноутбук MacBook Air M2 15 Midnight 512 ГБ SSD",
+      "brand": "Apple",
+      "price": "22 715 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 115
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img17.jpeg?token=GHSAT0AAAAAACOWD3ASFV3ILV2PU6753B2WZPHAR4A",
+      "title": "Ноутбук Razer Blade 14 RZ09-0427 R9-6900HX 16 GB 1TB",
+      "brand": "Asus",
+      "price": "20 350 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 116
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img18.jpeg?token=GHSAT0AAAAAACOWD3ATA4TZFEPFB2BCKTUCZPHASYQ",
+      "title": "Ноутбук Dell Alienware M15 R7 i7-12700H 16/512 GB SSD",
+      "brand": "Asus",
+      "price": "31 114 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 117
+    }
+  ],
+  "steeringWheel": [
+    {
+      "img": "https://khivamuseum.uz/sites/default/files/6221_a_1.jpg",
+      "title": "Qo‘lmehnat bilan ishlangan yog‘och lavh",
+      "price": "270 000",
+      "brand": "Usta",
+      "id": 120
+    },
+    {
+      "img": "https://oyina.uz/storage/funnies/April2022/42.png",
+      "title": "Bezakli yog‘och lavh",
+      "price": "1 138 500",
+      "brand": "Usta",
+      "id": 121
+    },
+    {
+      "img": "https://oyina.uz/storage/funnies/April2022/53.png",
+      "title": "Qo‘l bilan o‘ymakorlik qilingan yog‘och qalamdon",
+      "price": "1 789 200",
+      "brand": "Hunarmandlar",
+      "id": 122
+    },
+    {
+      "img": "https://minio.tbcbank.uz/web-tbcbank-uz-strapi-admin-cms/uploads/8-kokand.jpeg",
+      "title": "Yog‘ochdan yasalgan stol usti bezagi",
+      "price": "2 267 860",
+      "brand": "Hunarmandchiligi",
+      "id": 123
+    },
+    {
+      "img": "https://oyina.uz/storage/funnies/April2022/93.png",
+      "title": "Qo‘lmehnat bilan ishlangan yog‘och idish",
+      "price": "2 277 000",
+      "brand": "Usta",
+      "id": 124
+    },
+    {
+      "img": "https://oyina.uz/storage/funnies/April2022/23.png",
+      "title": "Bezakli yog‘och shaxmat",
+      "price": "2 114 000",
+      "brand": "Milliy",
+      "id": 125
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img7.jpg?token=GHSAT0AAAAAACOWD3AS2N6IGEM7VHQ7CWC6ZPHBA6A",
+      "title": "Автомобильный мульти руль Chevrolet TrailBlazer 2",
+      "price": "2 527 000",
+      "brand": "Mercedes",
+      "id": 126
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img8.jpg?token=GHSAT0AAAAAACOWD3ASL4TOAKOLB2EDPLVYZPHBBTA",
+      "title": "Руль для автомобиля Audi RS",
+      "price": "3 440 300",
+      "brand": "Mercedes",
+      "id": 127
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img9.jpg?token=GHSAT0AAAAAACOWD3ATFU4VUE4LGS6DHED4ZPHBCGA",
+      "title": "Руль для автомобиля AMG W 223 S-class",
+      "price": "7 821 000",
+      "brand": "Mercedes",
+      "id": 128
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img10.jpg?token=GHSAT0AAAAAACOWD3ATIHBKLJ5C5VVXZA7EZPHBC6Q",
+      "title": "Руль для автомобиля Maybach 223",
+      "price": "4 524 000",
+      "brand": "Mercedes",
+      "id": 129
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img11.jpg?token=GHSAT0AAAAAACOWD3AT4CQFNXR24VK56EPQZPHBDTQ",
+      "title": "Автомобильный мульти руль Audi (start)",
+      "price": "1 952 000",
+      "brand": "Mercedes",
+      "id": 130
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img12.jpg?token=GHSAT0AAAAAACOWD3ASMWDC6XLPAQXCSOKYZPHBEJA",
+      "title": "Руль для автомобиля AMG G-class Черный - серый",
+      "price": "3 700 000",
+      "brand": "Mercedes",
+      "id": 131
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img13.jpg?token=GHSAT0AAAAAACOWD3AS6TISM5ITE6JDCG5GZPHBFWA",
+      "title": "Руль Chevrolet Marvel X",
+      "price": "1 400 000",
+      "brand": "Mercedes",
+      "id": 132
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img14.jpg?token=GHSAT0AAAAAACOWD3AS3RA5VBNREQWF3GMUZPHBGNQ",
+      "title": "Руль для автомобиля AMG 205 Черный",
+      "price": "2 150 000",
+      "brand": "Mercedes",
+      "id": 133
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img15.jpg?token=GHSAT0AAAAAACOWD3AS44HEGS3EALWZCSZEZPHBIGQ",
+      "title": "Руль для автомобиля Xongqi",
+      "price": "750 000",
+      "brand": "Mercedes",
+      "id": 134
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img16.jpg?token=GHSAT0AAAAAACOWD3ASG7343KS522XWKIEIZPHBI6Q",
+      "title": "Руль Chevrolet Marvel",
+      "price": "1 400 000",
+      "brand": "Mercedes",
+      "id": 135
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img17.jpg?token=GHSAT0AAAAAACOWD3AS2K5V2IV2VEKFZOBMZPHBKHA",
+      "title": "Руль Mercedes Gelandewagen Tiptronic",
+      "price": "3 100 000",
+      "brand": "Mercedes",
+      "id": 136
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img.jpg?token=GHSAT0AAAAAACOWD3ATTO4C3XH4OZTJKU44ZPHAZRQ",
+      "title": "середина руля Gentra",
+      "price": " 270 000",
+      "brand": "Mercedes",
+      "id": 138
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img2.jpg?token=GHSAT0AAAAAACOWD3ATTSK4IQT2HWHMD4JWZPHA3WQ",
+      "title": "Руль Lexsus",
+      "price": "1 138 500",
+      "brand": "Mercedes",
+      "id": 139
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img18.jpg?token=GHSAT0AAAAAACOWD3ATZF4Z2U3CVTAW6G6MZPHBLQQ",
+      "title": "Руль Cadillac Tiptronic",
+      "price": "2 090 00",
+      "brand": "Mercedes",
+      "id": 137
+    }
+  ],
+  "washingM": [
+
+    {
+      "id": 201,
+      "img": "https://api.society.uz/media/photo_2024-05-22_13-56-10_1.webp",
+      "title": "Qo‘lmehnat bilan ishlangan kashta",
+      "price": "577 000",
+      "brand": "Hunarmandlar"
+    },
+    {
+      "id": 202,
+      "img": "https://oyina.uz/storage/funnies/October2021/HvTRSwADtw5bhpoAZ3BK.jpg",
+      "title": "Rang-barang naqshli kashtado‘zlik",
+      "price": "114 000",
+      "brand": "Karakalpak"
+    },
+    {
+      "id": 203,
+      "img": "https://api.society.uz/media/photo_2024-05-22_13-56-09_1.webp",
+      "title": "Milliy naqshli dasturxon",
+      "price": "190 000",
+      "brand": "Hunarmandlar"
+    },
+    {
+      "id": 204,
+      "img": "https://cdn1.img.sputniknews.uz/img/07e7/01/13/31584902_0:96:1024:672_1920x0_80_0_0_1aca0853a774df23735c0f341d0dc017.jpg",
+      "title": "Bezakli milliy kashta",
+      "price": "977 000",
+      "brand": "Karakalpak"
+    },
+    {
+      "id": 205,
+      "img": "https://yoshlarovozi.uz/uploads/news/92bf8393b5bd20151f8683b120ab2941.jpg",
+      "title": "Qo‘l bilan ishlangan kashtali mato",
+      "price": "693 000",
+      "brand": "Hunarmandlar"
+    },
+    {
+      "id": 206,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMb2hgGBxCQyDr63SyrXzSn0wlxS3yCxWkFg&s",
+      "title": "Milliy naqshli kashtachilik buyumi",
+      "price": "480 000",
+      "brand": "Hunarmandlar"
+    },
+    {
+      "id": 207,
+      "title": "Стиральная машина Midea MFE06W60/W-C 6кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine7.jpg",
+      "price": "3 267 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 208,
+      "title": "Стиральная машина Midea MF100W60/T-C (6 Кг)",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine8.jpg",
+      "price": "3 764 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 209,
+      "title": "Стиральная машина полуавтомат Artel TG90P City 01",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine9.jpg",
+      "price": "1 799 000",
+      "brand": "Artel"
+    },
+    {
+      "id": 210,
+      "title": "Стиральная машина Rulls TD8HPW 8 Kg",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine10.jpg",
+      "price": "5 473 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 211,
+      "title": "Стиральная машина Samsung WW6100A",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine11.jpg",
+      "price": "7 647 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 212,
+      "title": "Стиральная машина Samsung WW80AG6S24AWLD 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine12.jpg",
+      "price": "7 432 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 213,
+      "title": "Стиральная машина Samsung WW5100 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine13.jpg",
+      "price": "6 510 000 ",
+      "brand": "Samsung"
+    },
+    {
+      "id": 214,
+      "title": "Стиральная машина MoonX Inverter 12 кг WMS12104DG",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine14.jpg",
+      "price": "5 780 000",
+      "brand": "MoonX"
+    },
+    {
+      "id": 215,
+      "title": "Стиральная машина Samsung WW65AG4S21CELD",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine15.jpg",
+      "price": "6 004 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 216,
+      "title": "Стиральная машина полуавтомат Artel TG100FP",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine16.jpg",
+      "price": "2 010 000",
+      "brand": "Artel"
+    },
+    {
+      "id": 217,
+      "title": "Стиральная машина Shivaki WF90L4505K Серый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine17.jpg",
+      "price": "5 941 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 218,
+      "title": "Стиральная машина Shivaki WF90L4505K Коричневый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine18.jpg",
+      "price": "5 941 000 ",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 219,
+      "title": "Стиральная машина Shivaki WF90L4505K Белый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine19.jpg",
+      "price": "5 789 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 220,
+      "title": "Стиральная машина Shivaki WF90L4505K",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine20.jpg",
+      "price": "5 789 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 221,
+      "title": "Стиральная машина Shivaki WF80L2505K Серый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine21.jpg",
+      "price": "5 650 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 222,
+      "title": "Стиральная машина Shivaki WF80L2505K Коричневый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine22.jpg",
+      "price": "5 650 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 223,
+      "title": "Стиральная машина RULLS S104INSS 10 Kg",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine23.jpg",
+      "price": "6 257 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 224,
+      "title": "Стиральная машина Samsung WW80AG6S24AWLD 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine24.jpg",
+      "price": "7 432 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 225,
+      "title": "Стиральная машина Rulls F104DDSDG 10 Kg",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine25.jpg",
+      "price": "6 826 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 226,
+      "title": "Стиральная машина Rulls F84INSDG 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine26.jpg",
+      "price": "4 652 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 227,
+      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine27.jpg",
+      "price": "5 792 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 228,
+      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine28.jpg",
+      "price": "10 770 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 229,
+      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine29.jpg",
+      "price": "6 548 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 230,
+      "title": "Стиральная машина Midea MF200D80WB/T-C 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine30.jpg",
+      "price": "6 321 000",
+      "brand": "Midea"
+    }
+  ],
+  "computers": [
+    {
+      "id": 231,
+      "title": "Qo‘lmehnat bilan tikilgan libos",
+      "price": "1 959 000",
+      "brand": "Tikuvchilik",
+      "img": "https://api.society.uz/media/10faca07-8e8f-4654-8489-84bddf28162f_1.webp",
+      "details": {
+        "display": "Material: Paxta",
+        "frequency": "O‘lcham: 38-46",
+        "weight": "Og‘irligi: 500g",
+        "security": "Qo‘lda yuvish",
+        "diagonal": "Rang: Rang-barang"
+      }
+    },
+    {
+      "id": 232,
+      "title": "An’anaviy naqshli tikilgan ko‘ylak",
+      "price": "2 402 000",
+      "brand": "Tikuvchilik",
+      "img": "https://api.society.uz/media/photo_2024-04-22_11-47-17_2_1.webp",
+      "details": {
+        "display": "Material: Atlas",
+        "frequency": "O‘lcham: 40-50",
+        "weight": "Og‘irligi: 450g",
+        "security": "Qo‘lda yuvish",
+        "diagonal": "Rang: Moviy"
+      }
+    },
+    {
+      "id": 233,
+      "title": "Qo‘lmehnat bilan tikilgan",
+      "price": "2 212 000",
+      "brand": "Tikuvchilik",
+      "img": "https://api.society.uz/media/news/1f2e0a8a-15ba-4620-8723-f6c7103e9366.webp",
+      "details": {
+        "display": "Material: Matoli ip",
+        "frequency": "O‘lcham: 120x120 sm",
+        "weight": "Og‘irligi: 700g",
+        "security": "Mashina yoki qo‘lda yuvish",
+        "diagonal": "Rang: Oq va naqshli"
+      }
+    },
+    {
+      "id": 234,
+      "title": "Qo‘l bilan tikilgan milliy libos",
+      "price": "2 844 000",
+      "brand": "Tikuvchilik",
+      "img": "https://api.society.uz/media/329afe2d-3fe6-4d35-83bb-1471aeedce54_1.webp",
+      "details": {
+        "display": "Material: Ipaki mato",
+        "frequency": "O‘lcham: 200x220 sm",
+        "weight": "Og‘irligi: 2kg",
+        "security": "Mashina yuvish mumkin",
+        "diagonal": "Rang: Oq va naqshli"
+      }
+    },
+    {
+      "id": 235,
+      "title": "Qo‘lmehnat bilan tikilgan bolalar libosi",
+      "price": "531 000",
+      "brand": "Tikuvchilik",
+      "img": "https://api.society.uz/media/9358f359-32b2-4d07-8084-458235fcbe45_1.webp",
+      "details": {
+        "display": "Material: Ip va atlas",
+        "frequency": "O‘lcham: 30-40",
+        "weight": "Og‘irligi: 300g",
+        "security": "Qo‘lda yuvish",
+        "diagonal": "Rang: Pushti"
+      }
+    }
+    ,
+    {
+      "id": 236,
+      "title": "Беспроводная бесшумная игровая мышь hoco DI43 60347",
+      "price": "179 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img6.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 237,
+      "title": "Клавиатура для ноутбука Galaxy Tab S9+ / Tab S9 FE+",
+      "price": "2 330 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img7.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 238,
+      "title": "Проводная игровая мышь AVT GAMING MAG930",
+      "price": "316 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img8.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 239,
+      "title": "Моноблок Atech HAF27i516G512GB i5-12400F, 16/512GB SSD 27 FHD",
+      "price": "8 974 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img9.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 240,
+      "title": "Моноблок Atech HAC24i58G256GW i5-12400F 8/256GB SSD 24 FHD Curved",
+      "price": "7 584 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img10.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 241,
+      "title": "Моноблок Lenovo IdeaCentre AIO 3 24ALC6 R3-5300U 8/512GB SSD 23.8 FHD (F0G1000NRK)",
+      "price": "5 941 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img11.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 242,
+      "title": "Стол компьютерный Cougar MARS PRO 150 (4610)",
+      "price": "6 287 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img12.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 243,
+      "title": "Системный блок Lenovo desktop 3050U 8/1000GB HDD",
+      "price": "3 710 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img13.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 244,
+      "title": "Многофункциональный держатель для ноутбука Awei X25",
+      "price": "420 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img14.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 245,
+      "title": "AVerMedia Live Gamer 4K GC573 (61GC5730A0AS)",
+      "price": "3 650 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img15.png",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 246,
+      "title": "AVerMedia Live Gamer Bolt GC555 (61GC555000A9)",
+      "price": "5 648 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img16.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 247,
+      "title": "Беспроводной набор A4Tech FB2535C",
+      "price": "456 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img17.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 248,
+      "title": "Клавиатура Redragon Anivia",
+      "price": "531 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img18.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 249,
+      "title": "Проводная игровая мышь AVT GAMING MAG963",
+      "price": "303 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img19.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 250,
+      "title": "Проводная игровая клавиатура AVT GAMING",
+      "price": "379 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img20.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/phone_category.png",
+      "text": "Смартфоны и планшеты"
+    },
+    {
+      "id": 2,
+      "img": "https://github.com/developerdamirbek/Gipermart_images/blob/main/products/laptop_category.png?raw=true",
+      "text": "Ноутбуки"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/avto_category.png",
+      "text": "Авто мото товары"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/game_category.png",
+      "text": "Компьютеры для геймеров"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/home_category.png",
+      "text": "Бытовая техника"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/banner_img.png",
+      "id": 803
+    },
+    {
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/banner_img.png",
+      "id": 804
+    },
+    {
+      "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/banner_img.png",
+      "id": 805
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
+      "title": "Samsung Galaxy A05",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "brand": "Samsung",
+      "price": "1 700 000",
+      "id": 21
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone3.jpg",
+      "title": "Xiaomi Redmi Note 11S",
+      "rame": "6/128 GB",
+      "color": "Graphite Gray",
+      "brand": "Xiaomi",
+      "price": "1 732 000",
+      "id": 22
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone4.jpg",
+      "title": "Redmi Note 13 Pro",
+      "rame": "8/128 GB",
+      "color": "Green",
+      "brand": "Redmi",
+      "price": "4 450 000",
+      "id": 23
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone5.jpg",
+      "title": "Samsung Galaxy S24",
+      "rame": "8/256 GB",
+      "color": "Фиолетовый",
+      "brand": "Samsung",
+      "price": "10 365 000",
+      "id": 24
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone6.jpg",
+      "title": "Samsung Galaxy S24",
+      "rame": "8/256 GB",
+      "color": "Серый",
+      "brand": "Samsung",
+      "price": "10 357 000",
+      "id": 25
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone7.jpg",
+      "title": "Samsung Galaxy S24 Ultra",
+      "rame": "12/512 GB",
+      "color": "Titanium Black",
+      "brand": "Samsung",
+      "price": "16 432 000",
+      "id": 26
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone8.jpg",
+      "title": "Samsung Galaxy S24 Ultra",
+      "rame": "12/512 GB",
+      "color": "Titanium Black",
+      "brand": "Samsung",
+      "price": "16 632 000",
+      "id": 27
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg",
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Фиолетовый",
+      "brand": "Novey",
+      "price": "1 479 000",
+      "id": 28
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg",
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Белый",
+      "brand": "Novey",
+      "price": "1 479 000",
+      "id": 29
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg",
+      "title": "Novey Alpha A10",
+      "rame": "4/64 GB",
+      "color": "Black",
+      "brand": "Novey",
+      "price": "1 200 000",
+      "id": 30
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone12.jpg",
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Тёмный синий",
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "id": 31
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone13.jpg",
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Желтый",
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "id": 32
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone14.jpg",
+      "title": "Samsung Galaxy A25",
+      "rame": "6/128 GB",
+      "color": "Синий",
+      "brand": "Samsung",
+      "price": "3 160 000",
+      "id": 33
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Pink",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 34
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Pink",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 35
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone15.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Pink",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 36
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Yellow",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 37
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Yellow",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 38
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone16.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Yellow",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 39
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Green",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 40
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Green",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 41
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone17.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Green",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 42
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "512 GB",
+      "color": "Black",
+      "brand": "Apple",
+      "price": "14 940 000",
+      "id": 43
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "256 GB",
+      "color": "Black",
+      "brand": "Apple",
+      "price": "15 547 000",
+      "id": 44
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone18.jpg",
+      "title": "Apple iPhone 15 Plus",
+      "rame": "128 GB",
+      "color": "Black",
+      "brand": "Apple",
+      "price": "13 904 000",
+      "id": 45
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Natural titanium",
+      "brand": "Apple",
+      "price": "24 611 000",
+      "id": 46
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Natural titanium",
+      "brand": "Apple",
+      "price": "22 752 000",
+      "id": 47
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "512 Gb",
+      "color": "Natural titanium",
+      "brand": "Apple",
+      "price": "18 604 000",
+      "id": 48
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Black titanium",
+      "brand": "Apple",
+      "price": "24 611 000",
+      "id": 49
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "1 TB",
+      "color": "Black titanium",
+      "brand": "Apple",
+      "price": "22 752 000",
+      "id": 50
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "512 Gb",
+      "color": "Black titanium",
+      "brand": "Apple",
+      "price": "18 604 000",
+      "id": 51
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
+      "title": "Беговая дорожка CF-6-4",
+      "brand": "sportGym",
+      "price": "9 375 000",
+      "id": 60
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img2.jpg",
+      "title": "Велотренажёр Grand Fitness GF-0716EA",
+      "brand": "sportGym",
+      "price": "4 697 000",
+      "id": 61
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img3.jpg",
+      "title": "Велотренажёр Grand Fitness 0701",
+      "brand": "sportGym",
+      "price": "3 057 000",
+      "id": 62
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img4.jpg",
+      "title": " Набор гантелей 6 в 1",
+      "brand": "sportGym",
+      "price": "990 000",
+      "id": 63
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img5.jpg",
+      "title": " Набор гантелей 10кг 6 в 1",
+      "brand": "sportGym",
+      "price": "730 000",
+      "id": 64
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img6.jpg",
+      "title": "Беговая дорожка PowerGym PG-565Mi",
+      "brand": "sportGym",
+      "price": "9 300 000",
+      "id": 65
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img7.jpg",
+      "title": "Беговая дорожка NewNoble V5",
+      "brand": "NewNoble",
+      "price": "11 000 000",
+      "id": 66
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img8.jpg",
+      "title": "Многофункциональный силовой тренажер PowerGym H83E",
+      "brand": "sportGym",
+      "price": "11 130 000",
+      "id": 67
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img9.jpg",
+      "title": "Платформа для отжиманий с эспандерами 14 в 1",
+      "brand": "NewNoble",
+      "price": "350 000",
+      "id": 68
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img10.jpeg",
+      "title": "Платформа для отжиманий с эспандерами 14 в 1",
+      "brand": "NewNoble",
+      "price": "350 000",
+      "id": 69
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img11.jpeg",
+      "title": "Мини степпер PowerGym",
+      "brand": "sportGym",
+      "price": "1 050 000",
+      "id": 70
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img12.jpeg",
+      "title": "Фитнес мяч 85см (904)",
+      "brand": "sportGym",
+      "price": "198 000",
+      "id": 71
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img19.jpeg",
+      "title": "Ролик массажный 45см (3105)",
+      "brand": "sportGym",
+      "price": "180 000",
+      "id": 77
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img20.jpeg",
+      "title": "Гантели Резиновые 1.5 кг 2шт (3124)",
+      "brand": "sportGym",
+      "price": "260 000",
+      "id": 78
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img13.jpeg",
+      "title": "Беговая дорожка PowerGym PG 710",
+      "brand": "sportGym",
+      "price": "7 400 000",
+      "id": 72
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img14.jpeg",
+      "title": "Гимнастический ролик для пресса",
+      "brand": "sportGym",
+      "price": "205 000",
+      "id": 73
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img15.jpeg",
+      "title": "Упоры для отжимания",
+      "brand": "NewNoble",
+      "price": "186 000",
+      "id": 74
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img16.jpg",
+      "title": "Велотренажер PowerGym B50",
+      "brand": "sportGym",
+      "price": "3 230 000",
+      "id": 75
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img18.jpeg",
+      "title": "Велотренажер PowerGym B55",
+      "brand": "sportGym",
+      "price": "3 700 000",
+      "id": 76
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img21.jpeg",
+      "title": "Инверсионный стол PowerGym A27",
+      "brand": "NewNoble",
+      "price": "2 600 000",
+      "id": 79
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img22.jpeg",
+      "title": "Универсальная скамья для пресса PowerGym DDS-201",
+      "brand": "PowerGym",
+      "price": "2 100 000",
+      "id": 80
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img23.jpeg",
+      "title": "Универсальная скамья для пресса PowerGym B10",
+      "brand": "PowerGym",
+      "price": "2 800 000",
+      "id": 81
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img24.jpeg",
+      "title": "Многофункциональный силовой тренажер PowerGym H99",
+      "brand": "PowerGym",
+      "price": "15 300 000",
+      "id": 82
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img25.jpeg",
+      "title": "Многофункциональный силовой тренажер PowerGym H68",
+      "brand": "PowerGym",
+      "price": "7 201 000",
+      "id": 83
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img.jpg?token=GHSAT0AAAAAACOWD3AT5LM7I5F5NCALJIXKZPG7UXQ",
+      "title": "Ноутбук Asus ROG Zephyrus Duo 16 GX650RW-LO120X R9-6900HX 32GB 1TB SSD",
+      "brand": "Asus",
+      "price": "45 115 000",
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I7",
+      "display": "16.5 Full HD",
+      "memory": "528 GB",
+      "weight": "1.5 KG",
+      "id": 100
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img2.jpeg?token=GHSAT0AAAAAACOWD3ATUOVDQ6M4JJ4YXRJOZPG733Q",
+      "title": "Ноутбук MSI Pulse GL76 12UGK-258 i7-12700H 16 GB 1TB SSD RTX3070 8G 17.3",
+      "brand": "Asus",
+      "price": "19 716 000",
+      "color": "black",
+      "ram": "32 GB",
+      "geForce": "RTX 4080",
+      "core": "Intel I7",
+      "display": "16.5 Full HD",
+      "memory": "528 GB",
+      "weight": "1.5 KG",
+      "id": 101
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img3.jpeg?token=GHSAT0AAAAAACOWD3ATDKTYPIV4NWPOI42QZPG76CA",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "HP",
+      "price": "8 300 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 102
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img4.jpeg?token=GHSAT0AAAAAACOWD3ATVKXLIMQQ5WR42LKCZPG77BQ",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "HP",
+      "price": "6 737 000",
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 103
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img5.jpeg?token=GHSAT0AAAAAACOWD3ATXLUKJQPRK36ALEK6ZPHABMQ",
+      "title": "Ноутбук Lenovo IdeaPad 1 15IAU7 i5-1235U 256 GB 15.6 FHD (82QD003VUS)",
+      "brand": "Lenovo",
+      "price": "7 074 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 104
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img6.jpeg?token=GHSAT0AAAAAACOWD3ATTF7XT3T5O4NV267SZPHACIQ",
+      "title": "Игровой ноутбук Asus Tuf Gaming F15 FX507ZC4-HN009",
+      "brand": "Asus",
+      "price": "10 999 000",
+      "color": "black",
+      "ram": "32 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I9",
+      "display": "16.5 Full HD",
+      "memory": "512 GB",
+      "weight": "2.5 KG",
+      "id": 105
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img7.jpeg?token=GHSAT0AAAAAACOWD3ASFPYEXDHRXA3N7EPSZPHADNA",
+      "title": "Ноутбук Lenovo MateBook D 14 2023 i3-1215U 8 GB 256GB",
+      "brand": "Lenovo",
+      "price": "6 664 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 106
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img8.jpeg?token=GHSAT0AAAAAACOWD3AT7ZX2H5TAF6ZCZGIWZPHAESQ",
+      "title": "Ноутбук Msi Cyborg 15 A12VE-091XKR i7 12650H 8/512GB",
+      "brand": "MSI",
+      "price": "13 208 000",
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I7",
+      "display": "16.5 Full HD",
+      "memory": "512 GB",
+      "weight": "1.5 KG",
+      "id": 107
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img9.jpeg?token=GHSAT0AAAAAACOWD3AS7JDEZNQPWAWZEUWMZPHAFVQ",
+      "title": "Ноутбук Acer Aspire 5 A517-56CC I5-1335U 8/512 GB SSD",
+      "brand": "Acer",
+      "price": "9 970 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 108
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img10.jpeg?token=GHSAT0AAAAAACOWD3ATRU2ODLOFMABPOAJCZPHAJVA",
+      "title": "Ноутбук Acer Aspire 5 A515-58P-55AK I5-1335U 8/256GB",
+      "brand": "Acer",
+      "price": "7 080 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 109
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img11.jpeg?token=GHSAT0AAAAAACOWD3ASZUAZBOBTIFF4BJ6WZPHAKTA",
+      "title": "Ноутбук Acer EX215 I5-1135G7 4/256GB 15.6 FHD",
+      "brand": "Acer",
+      "price": "5 100 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 110
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img12.jpeg?token=GHSAT0AAAAAACOWD3ASG7U3BYL2CY6PGMFAZPHALRA",
+      "title": "Ноутбук Apple MacBook Pro 13 2020 Z0Y6000YK core i7 1068NG7 32/512ГБ SSD 13.3",
+      "brand": "Apple",
+      "price": "30 336 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 111
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img13.jpeg?token=GHSAT0AAAAAACOWD3ATVEEDRFKKYNVEK4L4ZPHAMTA",
+      "title": "Ноутбук Lenovo Ideapad 1 15IGL7 N4020 4/256 GB SSD",
+      "brand": "Lenovo",
+      "price": "2 899 000",
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 112
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img14.jpeg?token=GHSAT0AAAAAACOWD3ATNQB75RCRL5GHDOE2ZPHANUQ",
+      "title": "Ноутбук Asus TUF Dash F15 i5-12450H 8/512GB SSD 15,6 FHD",
+      "brand": "Asus",
+      "price": "11 629 000",
+      "color": "black",
+      "ram": "31 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I9",
+      "display": "17 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 113
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img15.jpeg?token=GHSAT0AAAAAACOWD3ATKXHPXT4BNWQO3MUUZPHAOXA",
+      "title": "Ноутбук MacBook Air M2 15 Starlight 256GB SSD",
+      "brand": "Apple",
+      "price": "19 715 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 114
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img16.jpeg?token=GHSAT0AAAAAACOWD3ATTVWTST26UQJUZ6FWZPHAQNA",
+      "title": "Ноутбук MacBook Air M2 15 Midnight 512 ГБ SSD",
+      "brand": "Apple",
+      "price": "22 715 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 115
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img17.jpeg?token=GHSAT0AAAAAACOWD3ASFV3ILV2PU6753B2WZPHAR4A",
+      "title": "Ноутбук Razer Blade 14 RZ09-0427 R9-6900HX 16 GB 1TB",
+      "brand": "Asus",
+      "price": "20 350 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 116
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img18.jpeg?token=GHSAT0AAAAAACOWD3ATA4TZFEPFB2BCKTUCZPHASYQ",
+      "title": "Ноутбук Dell Alienware M15 R7 i7-12700H 16/512 GB SSD",
+      "brand": "Asus",
+      "price": "31 114 000",
+      "color": "black",
+      "ram": "8 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I5",
+      "display": "16.5 Full HD",
+      "memory": "280 GB",
+      "weight": "1.5 KG",
+      "id": 117
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img.jpg?token=GHSAT0AAAAAACOWD3ATTO4C3XH4OZTJKU44ZPHAZRQ",
+      "title": "середина руля Gentra",
+      "price": " 270 000",
+      "brand": "Mercedes",
+      "id": 120
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img2.jpg?token=GHSAT0AAAAAACOWD3ATTSK4IQT2HWHMD4JWZPHA3WQ",
+      "title": "Руль Lexsus",
+      "price": "1 138 500",
+      "brand": "Mercedes",
+      "id": 121
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img3.jpg?token=GHSAT0AAAAAACOWD3ASRK72WVGN2Q2CU53AZPHA57Q",
+      "title": "Руль Malibu 2 Китай синий",
+      "price": "1 789 200",
+      "brand": "Mercedes",
+      "id": 122
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img4.jpg?token=GHSAT0AAAAAACOWD3ASZYFO5GCI5WL4SDZYZPHA63A",
+      "title": "Руль Malibu 2 original black",
+      "price": "2 267 860 ",
+      "brand": "Mercedes",
+      "id": 123
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img5.jpg?token=GHSAT0AAAAAACOWD3AT434ME4ND4IOQVTK2ZPHA7SQ",
+      "title": "Руль Malibu 1 Черный",
+      "price": "2 277 000",
+      "brand": "Mercedes",
+      "id": 124
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img6.jpg?token=GHSAT0AAAAAACOWD3ATQBJFZHFOY5UV5W7MZPHBAGQ",
+      "title": "Руль Cadillac",
+      "price": "2 114 000",
+      "brand": "Mercedes",
+      "id": 125
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img7.jpg?token=GHSAT0AAAAAACOWD3AS2N6IGEM7VHQ7CWC6ZPHBA6A",
+      "title": "Автомобильный мульти руль Chevrolet TrailBlazer 2",
+      "price": "2 527 000",
+      "brand": "Mercedes",
+      "id": 126
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img8.jpg?token=GHSAT0AAAAAACOWD3ASL4TOAKOLB2EDPLVYZPHBBTA",
+      "title": "Руль для автомобиля Audi RS",
+      "price": "3 440 300",
+      "brand": "Mercedes",
+      "id": 127
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img9.jpg?token=GHSAT0AAAAAACOWD3ATFU4VUE4LGS6DHED4ZPHBCGA",
+      "title": "Руль для автомобиля AMG W 223 S-class",
+      "price": "7 821 000",
+      "brand": "Mercedes",
+      "id": 128
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img10.jpg?token=GHSAT0AAAAAACOWD3ATIHBKLJ5C5VVXZA7EZPHBC6Q",
+      "title": "Руль для автомобиля Maybach 223",
+      "price": "4 524 000",
+      "brand": "Mercedes",
+      "id": 129
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img11.jpg?token=GHSAT0AAAAAACOWD3AT4CQFNXR24VK56EPQZPHBDTQ",
+      "title": "Автомобильный мульти руль Audi (start)",
+      "price": "1 952 000",
+      "brand": "Mercedes",
+      "id": 130
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img12.jpg?token=GHSAT0AAAAAACOWD3ASMWDC6XLPAQXCSOKYZPHBEJA",
+      "title": "Руль для автомобиля AMG G-class Черный - серый",
+      "price": "3 700 000",
+      "brand": "Mercedes",
+      "id": 131
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img13.jpg?token=GHSAT0AAAAAACOWD3AS6TISM5ITE6JDCG5GZPHBFWA",
+      "title": "Руль Chevrolet Marvel X",
+      "price": "1 400 000",
+      "brand": "Mercedes",
+      "id": 132
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img14.jpg?token=GHSAT0AAAAAACOWD3AS3RA5VBNREQWF3GMUZPHBGNQ",
+      "title": "Руль для автомобиля AMG 205 Черный",
+      "price": "2 150 000",
+      "brand": "Mercedes",
+      "id": 133
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img15.jpg?token=GHSAT0AAAAAACOWD3AS44HEGS3EALWZCSZEZPHBIGQ",
+      "title": "Руль для автомобиля Xongqi",
+      "price": "750 000",
+      "brand": "Mercedes",
+      "id": 134
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img16.jpg?token=GHSAT0AAAAAACOWD3ASG7343KS522XWKIEIZPHBI6Q",
+      "title": "Руль Chevrolet Marvel",
+      "price": "1 400 000",
+      "brand": "Mercedes",
+      "id": 135
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img17.jpg?token=GHSAT0AAAAAACOWD3AS2K5V2IV2VEKFZOBMZPHBKHA",
+      "title": "Руль Mercedes Gelandewagen Tiptronic",
+      "price": "3 100 000",
+      "brand": "Mercedes",
+      "id": 136
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img.jpg?token=GHSAT0AAAAAACOWD3ATTO4C3XH4OZTJKU44ZPHAZRQ",
+      "title": "середина руля Gentra",
+      "price": " 270 000",
+      "brand": "Mercedes",
+      "id": 138
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img2.jpg?token=GHSAT0AAAAAACOWD3ATTSK4IQT2HWHMD4JWZPHA3WQ",
+      "title": "Руль Lexsus",
+      "price": "1 138 500",
+      "brand": "Mercedes",
+      "id": 139
+    },
+    {
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/rul/rul-img18.jpg?token=GHSAT0AAAAAACOWD3ATZF4Z2U3CVTAW6G6MZPHBLQQ",
+      "title": "Руль Cadillac Tiptronic",
+      "price": "2 090 00",
+      "brand": "Mercedes",
+      "id": 137
+    },
+    {
+      "id": 201,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine1.jpg",
+      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "price": "3 577 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 202,
+      "title": "Стиральная машина Midea MF200W80WB/W-C (8 кг)",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine2.jpg",
+      "price": "5 114 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 203,
+      "title": "Стиральная машина Midea MF100W70/T-C 7Кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine3.jpg",
+      "price": "4 190 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 204,
+      "title": "Стиральная машина Midea MF100W70/W-C",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine4.jpg",
+      "price": "3 977 000",
+      "brand": " Midea"
+    },
+    {
+      "id": 205,
+      "title": "Стиральная машина Midea MFN03W60/T-C, 6 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine5.jpg",
+      "price": "3 693 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 206,
+      "title": "Стиральная машина Midea MFN03W60/W-C (6 Кг)",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine6.jpg",
+      "price": "3 480 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 207,
+      "title": "Стиральная машина Midea MFE06W60/W-C 6кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine7.jpg",
+      "price": "3 267 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 208,
+      "title": "Стиральная машина Midea MF100W60/T-C (6 Кг)",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine8.jpg",
+      "price": "3 764 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 209,
+      "title": "Стиральная машина полуавтомат Artel TG90P City 01",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine9.jpg",
+      "price": "1 799 000",
+      "brand": "Artel"
+    },
+    {
+      "id": 210,
+      "title": "Стиральная машина Rulls TD8HPW 8 Kg",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine10.jpg",
+      "price": "5 473 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 211,
+      "title": "Стиральная машина Samsung WW6100A",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine11.jpg",
+      "price": "7 647 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 212,
+      "title": "Стиральная машина Samsung WW80AG6S24AWLD 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine12.jpg",
+      "price": "7 432 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 213,
+      "title": "Стиральная машина Samsung WW5100 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine13.jpg",
+      "price": "6 510 000 ",
+      "brand": "Samsung"
+    },
+    {
+      "id": 214,
+      "title": "Стиральная машина MoonX Inverter 12 кг WMS12104DG",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine14.jpg",
+      "price": "5 780 000",
+      "brand": "MoonX"
+    },
+    {
+      "id": 215,
+      "title": "Стиральная машина Samsung WW65AG4S21CELD",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine15.jpg",
+      "price": "6 004 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 216,
+      "title": "Стиральная машина полуавтомат Artel TG100FP",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine16.jpg",
+      "price": "2 010 000",
+      "brand": "Artel"
+    },
+    {
+      "id": 217,
+      "title": "Стиральная машина Shivaki WF90L4505K Серый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine17.jpg",
+      "price": "5 941 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 218,
+      "title": "Стиральная машина Shivaki WF90L4505K Коричневый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine18.jpg",
+      "price": "5 941 000 ",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 219,
+      "title": "Стиральная машина Shivaki WF90L4505K Белый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine19.jpg",
+      "price": "5 789 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 220,
+      "title": "Стиральная машина Shivaki WF90L4505K",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine20.jpg",
+      "price": "5 789 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 221,
+      "title": "Стиральная машина Shivaki WF80L2505K Серый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine21.jpg",
+      "price": "5 650 000",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 222,
+      "title": "Стиральная машина Shivaki WF80L2505K Коричневый",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine22.jpg",
+      "price": "5 650 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 223,
+      "title": "Стиральная машина RULLS S104INSS 10 Kg",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine23.jpg",
+      "price": "6 257 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 224,
+      "title": "Стиральная машина Samsung WW80AG6S24AWLD 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine24.jpg",
+      "price": "7 432 000",
+      "brand": "Samsung"
+    },
+    {
+      "id": 225,
+      "title": "Стиральная машина Rulls F104DDSDG 10 Kg",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine25.jpg",
+      "price": "6 826 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 226,
+      "title": "Стиральная машина Rulls F84INSDG 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine26.jpg",
+      "price": "4 652 000",
+      "brand": "Rulls"
+    },
+    {
+      "id": 227,
+      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine27.jpg",
+      "price": "5 792 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 228,
+      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine28.jpg",
+      "price": "10 770 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 229,
+      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine29.jpg",
+      "price": "6 548 000",
+      "brand": "TCL"
+    },
+    {
+      "id": 230,
+      "title": "Стиральная машина Midea MF200D80WB/T-C 8 кг",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine30.jpg",
+      "price": "6 321 000",
+      "brand": "Midea"
+    },
+    {
+      "id": 231,
+      "title": "Монитор Msi pro mp243x fhd 100hz",
+      "price": "1 959 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img1.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 232,
+      "title": "Монитор Samsung S27C360EAM 75 Гц 27 FHD",
+      "price": "2 402 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img2jpg.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 233,
+      "title": "Монитор Samsung - 27 LS27C312EAIXCI Monitor, IPS, 75Hz, 5mc, FHD (1920x1080), HDMI",
+      "price": "2 212 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img3.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 234,
+      "title": "Монитор Samsung S24AG302NI 144 Гц 1920x1080 LS24AG302NIXCI 24",
+      "price": "2 844 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img4.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 235,
+      "title": "Клавиатура Redragon Anivia",
+      "price": "531 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img5.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 236,
+      "title": "Беспроводная бесшумная игровая мышь hoco DI43 60347",
+      "price": "179 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img6.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 237,
+      "title": "Клавиатура для ноутбука Galaxy Tab S9+ / Tab S9 FE+",
+      "price": "2 330 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img7.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 238,
+      "title": "Проводная игровая мышь AVT GAMING MAG930",
+      "price": "316 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img8.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 239,
+      "title": "Моноблок Atech HAF27i516G512GB i5-12400F, 16/512GB SSD 27 FHD",
+      "price": "8 974 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img9.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 240,
+      "title": "Моноблок Atech HAC24i58G256GW i5-12400F 8/256GB SSD 24 FHD Curved",
+      "price": "7 584 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img10.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 241,
+      "title": "Моноблок Lenovo IdeaCentre AIO 3 24ALC6 R3-5300U 8/512GB SSD 23.8 FHD (F0G1000NRK)",
+      "price": "5 941 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img11.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 242,
+      "title": "Стол компьютерный Cougar MARS PRO 150 (4610)",
+      "price": "6 287 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img12.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 243,
+      "title": "Системный блок Lenovo desktop 3050U 8/1000GB HDD",
+      "price": "3 710 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img13.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 244,
+      "title": "Многофункциональный держатель для ноутбука Awei X25",
+      "price": "420 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img14.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 245,
+      "title": "AVerMedia Live Gamer 4K GC573 (61GC5730A0AS)",
+      "price": "3 650 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img15.png",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 246,
+      "title": "AVerMedia Live Gamer Bolt GC555 (61GC555000A9)",
+      "price": "5 648 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img16.jpeg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 247,
+      "title": "Беспроводной набор A4Tech FB2535C",
+      "price": "456 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img17.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 248,
+      "title": "Клавиатура Redragon Anivia",
+      "price": "531 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img18.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 249,
+      "title": "Проводная игровая мышь AVT GAMING MAG963",
+      "price": "303 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img19.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    },
+    {
+      "id": 250,
+      "title": "Проводная игровая клавиатура AVT GAMING",
+      "price": "379 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img20.jpg",
+      "details": {
+        "display": "1920x1080",
+        "frequency": "75 Гц",
+        "weight": "5.60 кг",
+        "security": "Есть",
+        "diagonal": "27`"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "image": "https://khivamuseum.uz/sites/default/files/1_7.jpg",
+      "description": "Qoraqalpoq qadimiy hunarmandchilik namunalaridagi sodda naqsh va shakllar, ularning Qadimiy va O’rta asr Markaziy Osiyo ko’chmanchilari san’ati bilan bog’liqligini ko’rsatadi. Qoraqalpoqlarning qadimiy hunarmandchiligi, ularning qadimiy turar joylari (yurtalar), zarur uy-ro’zg’or buyumlari va mavjud materiallari (yung, teri, suyak, yog’och, paxtalar) asnosida rivojlangan."
+    },
+    {
+      "id": 2,
+      "image": "https://khivamuseum.uz/sites/default/files/styles/multple_image/public/5833-3_b.jpg",
+      "description": "Qoraqalpog'iston milliy hunarmandchiligi asrlar davomida shakllanib, o'ziga xos an'analarga ega bo'lib, bugungi kunda xalqning madaniy merosi va mehnatining ifodasidir. Qoraqalpoq hunarmandlari asosan tabiiy materiallardan foydalangan holda, ko'plab noyob va zamonaviy uslublarda buyumlar yasagan."
+    },
+    {
+      "id": 3,
+      "image": "https://khivamuseum.uz/sites/default/files/styles/multple_image/public/6221_1.jpg",
+      "description": "Qoraqalpoq kulolchilik san'ati ham juda mashhur bo'lib, ayniqsa, chinni idishlar va turli xil amaliy san'at buyumlari yasashda usta hunarmandlar o'z ustaliklarini namoyish etadilar. Savat to'qish hunari, tabiiy materiallardan foydalangan holda, zamonaviy dizaynga mos keladigan buyumlar yaratishga yordam beradi va bu hunarning tarixi qadimiy."
+    }
+  ],
+"categories": [
+    {
+      "id": 1,
+      "name": "Zargarlik",
+      "image": "https://cdn.pixabay.com/photo/2020/10/03/17/15/pottery-5624066_640.jpg",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32."
+    },
+    {
+      "id": 2,
+      "name": "Kulolchilik",
+      "image": "https://cdn.pixabay.com/photo/2020/10/03/17/15/pottery-5624066_640.jpg",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32."
+    }
+    
+  ],
+  "Crafters":[
+    
+      {
+        "id":1,
+        "name": "Oybek Qurbonov",
+        "rating": 5,
+        "specialty": "Sopol buyumlar (pottery artisan)",
+        "img":"https://www.shutterstock.com/image-photo/shop-owner-notes-pen-while-260nw-1900931641.jpg",
+        
+        "products": [
+          "Qo‘lmehnat bilan ishlangan sopol choynak",
+          "Milliy naqshli lagan",
+          "Bezakli sopol kosa"
+        ],
+        "story": "Oybek Qurbonov — Qoraqalpoq sopol san’atining tajribali ustasi. Uning sopol buyumlari milliy naqshlar bilan bezatilgan bo‘lib, har bir asar o‘ziga xos dizayn va sifatga ega."
+      },
+      {
+        "id":2,
+        "name": "Husan Ahmedov",
+        "rating": 5,
+        "specialty": "Zargarlik",
+    "img":"https://www.shutterstock.com/image-photo/portrait-handsome-tanner-man-work-600nw-2142298687.jpg",
+
+        "products": [
+          "Qo‘lmehnat bilan yasalgan zargarlik buyumlar",
+          "Rang-barang naqshli taqinchoqlar"
+        ],
+        "story": "Husan Ahmedov 20 yildan beri an’anaviy zargarlik bilan shug‘ullanadi. Uning mahorati har bir zargarlik mahsulotda aks etadi."
+      },
+      {
+        "id":3,
+        "name": "Azamat Ergashov",
+        "rating": 5,
+        "specialty": "Yog‘och o‘ymakorligi (wood carving artisan)",
+        "img":"https://www.shutterstock.com/image-photo/leather-craftsman-cutting-large-piece-600nw-2495835875.jpg",
+
+        "products": [
+          "Qo‘l bilan ishlangan yog‘och qalamdon",
+          "Bezakli yog‘och ko‘za",
+          "Milliy naqshli yog‘och o‘yinchoqlar"
+        ],
+        "story": "Azamat Ergashov — Qoraqalpoq yog‘och o‘ymakorligi san’atining yetuk vakillaridan biri. U o‘z asarlarida milliy naqshlar va an’analarni uyg‘unlashtirib, yog‘ochdan haqiqiy san’at asarlarini yaratadi."
+      },
+      {
+        "id":1,
+        "name": "Oybek Qurbonov",
+        "rating": 5,
+        "specialty": "Sopol buyumlar (pottery artisan)",
+        "img":"https://www.shutterstock.com/image-photo/shop-owner-notes-pen-while-260nw-1900931641.jpg",
+        
+        "products": [
+          "Qo‘lmehnat bilan ishlangan sopol choynak",
+          "Milliy naqshli lagan",
+          "Bezakli sopol kosa"
+        ],
+        "story": "Oybek Qurbonov — Qoraqalpoq sopol san’atining tajribali ustasi. Uning sopol buyumlari milliy naqshlar bilan bezatilgan bo‘lib, har bir asar o‘ziga xos dizayn va sifatga ega."
+      },
+      {
+        "id":2,
+        "name": "Husan Ahmedov",
+        "rating": 5,
+        "specialty": "Zargarlik",
+    "img":"https://www.shutterstock.com/image-photo/portrait-handsome-tanner-man-work-600nw-2142298687.jpg",
+
+        "products": [
+          "Qo‘lmehnat bilan yasalgan zargarlik buyumlar",
+          "Rang-barang naqshli taqinchoqlar"
+        ],
+        "story": "Husan Ahmedov 20 yildan beri an’anaviy zargarlik bilan shug‘ullanadi. Uning mahorati har bir zargarlik mahsulotda aks etadi."
+      },
+      {
+        "id":3,
+        "name": "Azamat Ergashov",
+        "rating": 5,
+        "specialty": "Yog‘och o‘ymakorligi (wood carving artisan)",
+        "img":"https://www.shutterstock.com/image-photo/leather-craftsman-cutting-large-piece-600nw-2495835875.jpg",
+
+        "products": [
+          "Qo‘l bilan ishlangan yog‘och qalamdon",
+          "Bezakli yog‘och ko‘za",
+          "Milliy naqshli yog‘och o‘yinchoqlar"
+        ],
+        "story": "Azamat Ergashov — Qoraqalpoq yog‘och o‘ymakorligi san’atining yetuk vakillaridan biri. U o‘z asarlarida milliy naqshlar va an’analarni uyg‘unlashtirib, yog‘ochdan haqiqiy san’at asarlarini yaratadi."
+      },
+      {
+        "id":4,
+        "name": "Oybek Qurbonov",
+        "rating": 5,
+        "specialty": "Sopol buyumlar (pottery artisan)",
+        "img":"https://www.shutterstock.com/image-photo/shop-owner-notes-pen-while-260nw-1900931641.jpg",
+        
+        "products": [
+          "Qo‘lmehnat bilan ishlangan sopol choynak",
+          "Milliy naqshli lagan",
+          "Bezakli sopol kosa"
+        ],
+        "story": "Oybek Qurbonov — Qoraqalpoq sopol san’atining tajribali ustasi. Uning sopol buyumlari milliy naqshlar bilan bezatilgan bo‘lib, har bir asar o‘ziga xos dizayn va sifatga ega."
+      },
+      {
+        "id":5,
+        "name": "Husan Ahmedov",
+        "rating": 5,
+        "specialty": "Zargarlik",
+    "img":"https://www.shutterstock.com/image-photo/portrait-handsome-tanner-man-work-600nw-2142298687.jpg",
+
+        "products": [
+          "Qo‘lmehnat bilan yasalgan zargarlik buyumlar",
+          "Rang-barang naqshli taqinchoqlar"
+        ],
+        "story": "Husan Ahmedov 20 yildan beri an’anaviy zargarlik bilan shug‘ullanadi. Uning mahorati har bir zargarlik mahsulotda aks etadi."
+      },
+      {
+        "id":6,
+        "name": "Azamat Ergashov",
+        "rating": 5,
+        "specialty": "Yog‘och o‘ymakorligi (wood carving artisan)",
+        "img":"https://www.shutterstock.com/image-photo/leather-craftsman-cutting-large-piece-600nw-2495835875.jpg",
+
+        "products": [
+          "Qo‘l bilan ishlangan yog‘och qalamdon",
+          "Bezakli yog‘och ko‘za",
+          "Milliy naqshli yog‘och o‘yinchoqlar"
+        ],
+        "story": "Azamat Ergashov — Qoraqalpoq yog‘och o‘ymakorligi san’atining yetuk vakillaridan biri. U o‘z asarlarida milliy naqshlar va an’analarni uyg‘unlashtirib, yog‘ochdan haqiqiy san’at asarlarini yaratadi."
+      }
+    
+    
+  ]
+}
